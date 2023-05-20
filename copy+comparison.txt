@@ -1,0 +1,29 @@
+Test Insert sort:
+1000    - Number of comparisons: 250348            Number of copying objects: 251347
+2000    - Number of comparisons: 997639            Number of copying objects: 999638
+3000    - Number of comparisons: 2249619           Number of copying objects: 2252618
+4000    - Number of comparisons: 3996114           Number of copying objects: 4000113
+5000    - Number of comparisons: 6243092           Number of copying objects: 6248091
+6000    - Number of comparisons: 8985988           Number of copying objects: 8991987
+7000    - Number of comparisons: 12235678          Number of copying objects: 12242677
+8000    - Number of comparisons: 15980355          Number of copying objects: 15988354
+9000    - Number of comparisons: 20221995          Number of copying objects: 20230994
+10000   - Number of comparisons: 24968464          Number of copying objects: 24978463
+25000   - Number of comparisons: 156095540         Number of copying objects: 156120539
+50000   - Number of comparisons: 624855739         Number of copying objects: 624905738
+100000  - Number of comparisons: 2499454529        Number of copying objects: 2499554528
+
+Test Shell sort:
+1000   - Number of comparisons: 15576             Number of copying objects: 23582
+2000   - Number of comparisons: 37038             Number of copying objects: 55044
+3000   - Number of comparisons: 59792             Number of copying objects: 89799
+4000   - Number of comparisons: 85614             Number of copying objects: 125620
+5000   - Number of comparisons: 113696            Number of copying objects: 168701
+6000   - Number of comparisons: 141173            Number of copying objects: 207180
+7000   - Number of comparisons: 165744            Number of copying objects: 242751
+8000   - Number of comparisons: 200023            Number of copying objects: 288029
+9000   - Number of comparisons: 221889            Number of copying objects: 329894
+10000  - Number of comparisons: 258594            Number of copying objects: 378599
+25000  - Number of comparisons: 780916            Number of copying objects: 1105922
+50000  - Number of comparisons: 1751923           Number of copying objects: 2451929
+100000 - Number of comparisons: 3966501           Number of copying objects: 5466507
